@@ -15,7 +15,5 @@ class Project7
 
             }
         }
-
-        int[] massiv = new int[n, m]; 
     }
 }
